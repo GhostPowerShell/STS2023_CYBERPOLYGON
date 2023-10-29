@@ -1,0 +1,393 @@
+{
+  "main": {
+    "id": "b99479d1bc0782ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb9441a8bf6dbac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840cff79958d7b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.111.20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b50b1134376a18d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.79.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "344920e0c5cc002a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.250.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecf9289317a2d420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.102.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec60b0280bff2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37c99d891bbbad50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b21e4e55e41f0971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.99.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee2241c6b3965b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.79.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47106d9097d463e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.40.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c783d26137354f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d0949e74af252e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.112.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0c19830679184f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.111.75.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58ba509f6359a778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.111.88.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dd89c1525744ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.111.61.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d9aafbbfa635434",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef64f5e97d255987",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4746e4ef75bfdb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/10.111.111.15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee99da59c9f8ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c244920a8c8ef49b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4f693701be5628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247bd16f3b3f3a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98a1000c9eceb5e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9524cf9fff1d0ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a8ace4a2d04170b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2d9b5155017b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2637ac5b5aaa09b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/10.111.112.79.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa062474703d9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/10.111.112.79.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7a66a379edb6206",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "faab718917c13e38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/10.111.112.79.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b50b1134376a18d4",
+  "lastOpenFiles": [
+    "Base/10.111.112.99.md",
+    "Base/10.111.112.101.md",
+    "Base/10.111.112.131.md",
+    "Base/10.111.112.240.md",
+    "Base/10.111.112.241.md",
+    "Base/10.111.111.88.md",
+    "Base/10.111.111.250.md",
+    "Base/10.111.112.2.md",
+    "Base/10.111.111.150.md",
+    "Base/10.111.111.75.md",
+    "Base/10.111.111.61.md",
+    "Base/10.111.111.20.md",
+    "Base/10.111.111.15.md",
+    "Base/STSCTF 2023.md",
+    "Base/10.111.111.10.md",
+    "Base/[10.111.111.20.md",
+    "Base/10.111.112.200.md",
+    "Base/10.111.112.102.md",
+    "Base/10.111.112.100.md",
+    "Base/10.111.112.40.md",
+    "Base/10.111.112.79.md",
+    "Base/10.111.112.3.md",
+    "Base/10.111.112.250.md",
+    "Base/Credentials.md",
+    "Assets/Pasted image 20231027122119.png",
+    "Assets/Pasted image 20231027122109.png",
+    "Assets/Pasted image 20231027113302.png",
+    "Assets/Pasted image 20231027113148.png",
+    "Assets/Pasted image 20231027113146.png",
+    "Assets/Pasted image 20231027113106.png",
+    "Assets/Pasted image 20231026153930.png",
+    "Assets/Pasted image 20231026125047.png",
+    "Assets/Pasted image 20231026104524.png",
+    "Assets/Pasted image 20231026100405.png",
+    "Daily/2023-10-25.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Base/README.md",
+    "Untitled.canvas",
+    "Base/Blockchain",
+    "Daily",
+    "Templates",
+    "Assets",
+    "Base"
+  ]
+}
